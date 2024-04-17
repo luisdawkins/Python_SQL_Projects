@@ -61,7 +61,8 @@ def Configure_Table():
         ("Live by Night", 2016, "Ben Affleck"),
         ("The Roads Not Taken", 2020, "Elle Fanning"),
         ("Astro Boy", 2009, "Nicholas Cage"),
-        ("Ashby", 2015, "Emma Roberts")
+        ("Ashby", 2015, "Emma Roberts"),
+        ("The Creator", 2023, "John David Washington")
     ]
 
     #Create primary table for database
